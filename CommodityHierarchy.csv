@@ -1,0 +1,191 @@
+﻿Category 1,Category 2,Category 3
+Exempt,Charities,Charities
+Exempt,Charities,Non-Profit
+Exempt,Charities,Community Services
+Exempt,Employment,Employment
+Exempt,Employment,Pension
+Exempt,Stock Exchange Fees,Stock Exchange Fees
+Exempt,Taxes & Regulatory,Customs
+Exempt,Taxes & Regulatory,Government
+Exempt,Taxes & Regulatory,Municipalities
+Exempt,Taxes & Regulatory,Taxes & Regulatory
+Facilities,Construction,Architects
+Facilities,Construction,Construction
+Facilities,Construction,Construction Equipment
+Facilities,Construction,Engineering
+Facilities,Construction,Environmental
+Facilities,Construction,Flooring
+Facilities,Construction,General Contractors
+Facilities,Construction,Materials & Supplies
+Facilities,Equipment & Supplies,Furniture
+Facilities,Equipment & Supplies,MRO Tools & Supplies
+Facilities,Facilities Management,Cleaning
+Facilities,Facilities Management,Doors & Windows
+Facilities,Facilities Management,Electrical
+Facilities,Facilities Management,Electrical & Power Systems
+Facilities,Facilities Management,Elevator / Vertical Transport
+Facilities,Facilities Management,Facilities Management
+Facilities,Facilities Management,Property Management
+Facilities,Facilities Management,Florists
+Facilities,Facilities Management,HVAC
+Facilities,Facilities Management,Landscaping
+Facilities,Facilities Management,Pest Control
+Facilities,Facilities Management,Plumbing
+Facilities,Facilities Management,Real Estate Management
+Facilities,Facilities Management,Waste Management
+Facilities,Facilities Management,Water Conditioning
+Facilities,Property,Leases & Rent
+Facilities,Property,Real Estate
+Facilities,Security & Fire,Security & Fire
+Facilities,Security & Fire,Security Equipment & Services
+Facilities,Security & Fire,Security Guards
+Facilities,Utilities,Electricity
+Facilities,Utilities,Gas & Oil
+Facilities,Utilities,Utilities
+Facilities,Utilities,Water
+Human Resources,Benefits,Dental
+Human Resources,Benefits,Healthcare
+Human Resources,Benefits,Life Insurance
+Human Resources,Benefits,Medical Insurance
+Human Resources,Benefits,Retirement
+Human Resources,Benefits,Vision
+Human Resources,Benefits,Workers Comp
+Human Resources,HR Services,Human Resources Services
+Human Resources,HR Services,Payroll
+Human Resources,HR Services,Recognition
+Human Resources,HR Services,Training
+Human Resources,Recruiting,Recruiting
+Human Resources,Recruiting,Relocation
+Human Resources,Temp Services,Temp Services
+Information Technology,Hardware,Hardware
+Information Technology,Hardware,Technology Leases
+Information Technology,Hardware,Printers Copiers MFD
+Information Technology,Hardware,Data Storage
+Information Technology,Infrastructure,Data Center Hosting
+Information Technology,Software,SAAS
+Information Technology,Software,Software
+Information Technology,Tech Services,Contract Programming
+Information Technology,Tech Services,Cyber Security
+Information Technology,Tech Services,Tech Services
+Information Technology,Tech Services,Technology
+Information Technology,Tech Services,Technology Services
+Information Technology,Tech Services,IT Services
+Information Technology,Telecom,Cable
+Information Technology,Telecom,Cellular
+Information Technology,Telecom,Telecom
+Information Technology,Telecom,Telecom Equipment
+Information Technology,VAR,VAR
+Logistics,Fleet,Automotive Parts
+Logistics,Fleet,Fleet Vehicles
+Logistics,Logistics,Transportation
+Logistics,Postage & Equipment,Postage & Equipment
+Logistics,Third Party Logistics,Couriers
+Logistics,Third Party Logistics,Freight
+Logistics,Warehousing,Self Storage
+Logistics,Warehousing,Warehousing
+Marketing,Agency,Advertising
+Marketing,Agency,Agency
+Marketing,Agency,Public Relations
+Marketing,Digital Media,Digital Media
+Marketing,Digital Media,Online Audio Video
+Marketing,Digital Media,SEM / SEO / Social Media
+Marketing,Digital Media,Search
+Marketing,Special Events,Event Services
+Marketing,Special Events,Event Rentals
+Marketing,Marketing Services,Loyalty Programs
+Marketing,Marketing Services,Marketing
+Marketing,Marketing Services,Marketing Analytics
+Marketing,Print,Printing
+Marketing,Print,Commercial Print
+Marketing,Print,Direct Mail
+Marketing,Print,Paper Supplier
+Marketing,Production Services,Creative Services
+Marketing,Production Services,Production House
+Marketing,Production Services,Production Services
+Marketing,Production Services,Photography
+Marketing,Production Services,Models
+Marketing,Traditional Media,Broadcast TV
+Marketing,Traditional Media,Newspaper
+Medical,Supplies,Gloves
+Medical,Supplies,Lab Supplies
+Medical,Supplies,Protective Equipment
+Operations,Document Services,Records Management
+Operations,Food Services,Beverages
+Operations,Food Services,Cafeteria
+Operations,Food Services,Convenience Store
+Operations,Food Services,Food Services
+Operations,Food Services,Restaurants
+Operations,Food Services,Supermarkets
+Operations,Food Services,Vending
+Operations,Library Services,Books
+Operations,Library Services,Library Services
+Operations,Library Services,Subscriptions & Publications
+Operations,Office Supplies,Forms
+Operations,Office Supplies,Labels & Adhesives
+Operations,Office Supplies,Office Supplies
+Operations,Office Supplies,Promotional Items
+Operations,Office Supplies,Stationery
+Operations,Office Supplies,Water & Coffee
+Operations,Travel,Aircraft
+Operations,Travel,Airfare
+Operations,Travel,Car Rental
+Operations,Travel,Entertainment
+Operations,Travel,Expense Reimbursement
+Operations,Travel,Fuel
+Operations,Travel,Hotels
+Operations,Travel,Marine Passenger Transportation
+Operations,Travel,"Parking, Tickets & Tolls"
+Operations,Travel,Seminars
+Operations,Travel,Conferences
+Operations,Travel,Train & Bus
+Operations,Travel,Travel
+Operations,Travel,Travel Agency
+Professional Services,Business Consulting,Business Consulting
+Professional Services,Business Consulting,Consulting
+Professional Services,Financial Services,Audit Accounting & Taxes
+Professional Services,Financial Services,Collections
+Professional Services,Financial Services,Credit Services
+Professional Services,Insurance,Insurance
+Professional Services,Legal,Law Firms
+Professional Services,Legal,Legal Services
+Specialty,Academics,Education
+Specialty,Academics,School Districts
+Specialty,Academics,Schools
+Specialty,Academics,Universities
+Specialty,Aerospace & Defense,Aerospace & Defense
+Specialty,Agriculture,Agriculture
+Specialty,Banking & Financial,Armored Car
+Specialty,Banking & Financial,ATM
+Specialty,Banking & Financial,Bank Equipment
+Specialty,Banking & Financial,Banking
+Specialty,Banking & Financial,Credit Card Services
+Specialty,Banking & Financial,Financial Services
+Specialty,Banking & Financial,Investment & Securities Services
+Specialty,Banking & Financial,Leasing & Lending
+Specialty,Banking & Financial,Lockbox
+Specialty,Banking & Financial,Mortgages
+Specialty,Banking & Financial,Student Loans
+Specialty,Civic Infrastructure,Airports
+Specialty,Civic Infrastructure,Civic Infrastructure
+Specialty,Civic Infrastructure,Railways
+Specialty,Civic Infrastructure,Road Management
+Specialty,Transport Vehicles,Locomotives
+Specialty,Transport Vehicles,Shipwright
+Specialty,Foods,Grains
+Specialty,Medical,Hospitals & Providers
+Specialty,Medical,Pharma
+Specialty,Oil Production,LNG
+Specialty,Oil Production,Oil Production
+Specialty,Retail,Clothing
+Specialty,Retail,Consumer Appliances
+Specialty,Retail,Consumer Electronics
+Specialty,Retail,Cosmetics & Personal Goods
+Specialty,Retail,Department Stores
+Specialty,Retail,Discount Stores
+Specialty,Retail,Drug Stores
+Specialty,Retail,E-Commerce
+Specialty,Retail,Home Goods
+Specialty,Retail,Luxury Goods
+Specialty,Retail,Retail Stores
+Specialty,Retail,Shopping Mall
+Specialty,Retail,Sporting Goods
