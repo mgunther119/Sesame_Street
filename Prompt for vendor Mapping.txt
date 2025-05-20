@@ -1,0 +1,20 @@
+This is a lookup table of entries that can describe a company's line of business.  The entries are separated by newline characters and may be more than one word:
+
+For each of the following companies, determine the entry in the lookup table that best describes it's line of business.
+Each line of your response should show the company and the exact entry from the lookup table.  Do not paraphrase or reword your response. Separate the company and the lookup table entry by the characters ~~~.
+If you cannot find a good match in the lookup table, return 'Unknown'.
+Verizon
+NCR
+WPP Group
+BBDO
+FIS
+Charter Communications
+IBM
+IRS
+Interpublic
+Express Couriers
+Hill Holiday
+Standard Register
+Boston Edison
+HP
+ISS
